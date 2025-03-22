@@ -6,7 +6,8 @@ The purpose of this exercise is to create a VM in Azure and deploy a SIEM in the
 ## Create an account in Azure
 - Create an Azure account [here](https://azure.microsoft.com/)
 - Use the free account with the 200 USD credit (this only applies to new accounts)
-- Once you have your new account click on Virtual Machines --> Create --> Azure Virtual Machine with preset configuration.
+- Once you have your new account click on Virtual Machines
+- Create --> Azure Virtual Machine with preset configuration.
 ![VM1](https://imgur.com/iHwkdLj.png)
 
 - Select the defaults for the machine, production and general purpose.
