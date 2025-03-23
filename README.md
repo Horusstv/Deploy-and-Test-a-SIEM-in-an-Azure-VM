@@ -1,4 +1,4 @@
-# Deployed-and-Tested-a-SIEM-in-an-Azure-VM
+# Deploy-and-Test-a-SIEM-in-an-Azure-VM
 
 The purpose of this exercise is to create a VM in Azure and deploy a SIEM in the newly created machine, after that test the SIEM by creating an alert and analyze the information you receive in the SIEM.
 
