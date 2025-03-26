@@ -2,6 +2,7 @@
 
 The purpose of this exercise is to create a VM in Azure and deploy a SIEM in the newly created machine, after that test the SIEM by creating an alert and analyze the information you receive in the SIEM.
 
+The particular SIEM to be deployed is one that comes with the Azure services itself called Microsoft Sentinel.
 
 ## Create an account in Azure
 - Create an Azure account [here](https://azure.microsoft.com/) (I am not affiliated, this is just the regular link)
